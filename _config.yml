@@ -103,5 +103,5 @@ theme: jsimple
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/TaylorTang12138/TaylorTang.github.io
+  repo: https://github.com/TaylorTang12138/TaylorTang12138.github.io
   branch: master
