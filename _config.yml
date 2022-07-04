@@ -104,4 +104,4 @@ theme: jekyll-theme-minimal
 deploy:
   type: git
   repo: https://github.com/TaylorTang12138/TaylorTang12138.github.io
-  branch: master
+  branch: hexo
